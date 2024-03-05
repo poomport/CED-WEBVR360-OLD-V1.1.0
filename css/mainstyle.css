@@ -1,0 +1,85 @@
+body {
+    font-family: 'Kavoon';
+}
+
+/* Styles for the modal */
+.modal0 {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(60, 60, 60, 0.9);
+    padding: 20px;
+    z-index: 1000;
+    text-align: center;
+    border-radius: 20px;
+}
+
+/* Styles for the close button of the modal */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Styles for the modal */
+.modal1 {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(150, 147, 147);
+    padding: 20px;
+    z-index: 1000;
+    text-align: center;
+    border-radius: 20px;
+}
+
+/* Styles for the modal */
+.modal2 {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(54, 138, 144);
+    padding: 50px;
+    z-index: 1000;
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Mitr', sans-serif;
+}
+
+#enterSiteLink {
+    cursor: pointer;
+    color: #fff;
+}
+
+#enterSiteLink:hover {
+    text-decoration: underline;
+    color: #6DB9EF;
+}
+
+#enterSiteLink:active {
+    color: #6DB9EF;
+    /* Change color when clicked */
+}
+
+#enterSiteLink1 {
+    cursor: pointer;
+    color: #fca83a;
+}
+
+#enterSiteLink1:hover {
+    text-decoration: underline;
+    color: #6DB9EF;
+}
+
+#enterSiteLink1:active {
+    color: #6DB9EF;
+
+}
