@@ -148,7 +148,7 @@
                     <div class="row_docs">
                         <div class="login-root">
                             <div class="formbg-inner padding-horizontal--48">
-                                <form id="stripe-login" method="post" name="myForm">
+                                <form id="stripe-login" method="post" name="myForm" onsubmit="handleSubmit(event)">
                                     <h3>แบบสำรวจความพึงพอใจ</h3>
                                     <div class="">
                                         <label for="name">Username : </label>
@@ -226,6 +226,7 @@
             <hr style="color: whitesmoke;" />
             <p onclick="closeModal2()" id="enterSiteLink">เข้าสู่เว็บไซต์</p>
         </div>
+
         <!-- Javascript files-->
         <script src="js/jquery.min.js"></script>
         <script src="js/popper.min.js"></script>
@@ -242,7 +243,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
             integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
             crossorigin="anonymous"></script>
+        <!-- script -->
         <script src="js/modal.js"></script>
+        <script src="js/gotofunc.js"></script>
         <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         <script src="js/server.js"></script>
 </body>

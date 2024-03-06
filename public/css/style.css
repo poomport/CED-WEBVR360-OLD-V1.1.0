@@ -400,3 +400,7 @@ section {
 .button-send:hover {
     background: #00bd68;
 }
+
+#comment {
+    width: 100%;
+}
