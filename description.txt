@@ -1,0 +1,25 @@
+Develop Software :
+--------------------------------------------------------------------
+Credit : 
+HTML CSS JS
+Figma : https://www.figma.com/
+TouchRetouch : https://adva-soft.com/app-pageTouch.html
+Adobe Lightroom
+Google Form 
+Visual Studio Code
+Canva : https://www.canva.com/
+Capcut : https://www.capcut.com/th-th/tools/auto-video-editor
+Marzipano : https://www.marzipano.net/tool/#
+Pixabay : https://pixabay.com/th/music/
+TTSMAKER : https://ttsmaker.com/th
+Insta360 : https://www.insta360.com/
+DEVBANBAN : https://devbanban.com/?p=2122
+CSS Scan : https://getcssscan.com/css-buttons-examples
+dribbble : https://dribbble.com/qclay
+--------------------------------------------------------------------
+Note : Update Version web 23/04/2024
+Version : 1.2
+--------------------------------------------------------------------
+This website aims to introduce the Department of Computer Education at the Industrial Education College of KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK. 
+Not intended to use for commercial use.
+Thank you for all development software. Thank you very much.
